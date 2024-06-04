@@ -1,6 +1,6 @@
 ### DivineEngine 的 Outbound 备份
 
-出国规则： | [Outbound](https://raw.githubusercontent.com/shling680/QuanX/main/DivineEngine/Outbound.conf)
+出国规则 | [Outbound](https://raw.githubusercontent.com/shling680/QuanX/main/DivineEngine/Outbound.conf)
 ------ | ------
 
 ### 原 DivineEngine 库 以及 规则链接
