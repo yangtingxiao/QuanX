@@ -1,11 +1,11 @@
 ### DivineEngine 的备份
 
-出国规则：[Outbound](https://raw.githubusercontent.com/shling680/QuanX/main/DivineEngine/Outbound.conf)
+出国规则： | [Outbound](https://raw.githubusercontent.com/shling680/QuanX/main/DivineEngine/Outbound.conf)
+------ | ------
 
 ### 原 DivineEngine 库 以及 规则链接
-[DivineEngine](https://github.com/DivineEngine)
-
-[Outbound](https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Outbound.conf) 原链接已失效 -> 删库 或 隐藏
+[DivineEngine](https://github.com/DivineEngine) | [Outbound](https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Outbound.conf) -> 原链接已失效 -> 删库 或 隐藏 
+------ | ------
 
 ### 相较于原规则：
 1、简化部分注释
