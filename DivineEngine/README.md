@@ -1,6 +1,6 @@
-### Ruleset
+### Ruleset 备份
  
-Ruleset | 备份状态  | 备份日期
+Ruleset | 状态  | 日期
 ---- | ----- | ------  
 ⛔️ Block OTA Update(iOS) | - | - 
 🔂 Unbreak | ✅ | 2024.06.04  
@@ -20,9 +20,9 @@ Ruleset | 备份状态  | 备份日期
 🇨🇳 China | ✅ | 2024.06.04  
 
 
-### Rewrite
+### Rewrite 备份
 
-Rewrite | 备份状态  | 备份日期
+Rewrite | 状态  | 日期
 ---- | ----- | ------  
 🔀 General | ✅ | 2024.06.04 
 ⛔️ Block OTA Update(iPadOS) | - | - 
