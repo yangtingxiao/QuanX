@@ -4,9 +4,9 @@
 ------ | ------ | ------
 
 ### 原 DivineEngine 库 以及 规则链接
-原库 [DivineEngine](https://github.com/DivineEngine) | ✅ 
------- | ------
-原链接 [Outbound](https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Outbound.conf) | ❌ 
+原库 | [DivineEngine](https://github.com/DivineEngine) | ✅ 
+------ | ------ | ------
+原链接 | [Outbound](https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Outbound.conf) | ❌ 
 
 原链接已失效 -> 删库 或 隐藏
 
