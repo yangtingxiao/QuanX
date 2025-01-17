@@ -413,17 +413,6 @@ host, wego.here.com, proxy
 host-suffix, go.dev, proxy
 host-suffix, golang.org, proxy
 host-suffix, appsto.re, proxy
-host-suffix, smoot.apple.com, proxy
-host, amp-api.podcasts.apple.com, proxy
-host, beta.music.apple.com, proxy
-host, books.itunes.apple.com, proxy
-host, lookup-api.apple.com, proxy
-host, radio.itunes.apple.com, proxy
-host, apps.apple.com, proxy
-host, books.apple.com, proxy
-host, itunes.apple.com, proxy
-host, tv.apple.com, proxy
-host, gateway.icloud.com, proxy
 host-suffix, apple.news, proxy
 host, news-assets.apple.com, proxy
 host, news-client.apple.com, proxy
