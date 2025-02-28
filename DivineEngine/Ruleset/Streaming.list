@@ -275,3 +275,8 @@ host-suffix, yt.be, proxy
 host-suffix, ytimg.com, proxy
 host, youtubei.googleapis.com, proxy
 host, yt3.ggpht.com, proxy
+host-suffix, nflxvideo.net, proxy
+host-keyword, 40maoaf.com, proxy
+host-keyword, madou.club, proxy
+host-keyword, phncdn, proxy
+host-keyword, porn, proxy
