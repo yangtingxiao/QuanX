@@ -426,3 +426,5 @@ host-suffix, licdn.com, proxy
 host-suffix, msn.com, proxy
 host-suffix, skype.com, proxy
 host-suffix, tritondigital.com, proxy
+host-keyword, openrailwaymap, proxy
+host-suffix, livekit.cloud, proxy
