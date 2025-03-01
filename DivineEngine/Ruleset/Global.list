@@ -430,3 +430,7 @@ host-keyword, openrailwaymap, proxy
 host-suffix, livekit.cloud, proxy
 host-suffix, acast.com, proxy
 host-suffix, godaddy.com, proxy
+host-suffix, podtrac.com, proxy
+host-suffix, goo.gl, proxy
+host-suffix, gstatic.com, proxy
+host-suffix, lingokids.com, proxy
