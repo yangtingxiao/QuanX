@@ -434,3 +434,4 @@ host-suffix, podtrac.com, proxy
 host-suffix, goo.gl, proxy
 host-suffix, gstatic.com, proxy
 host-suffix, lingokids.com, proxy
+host-keyword, openstreetmap, proxy
