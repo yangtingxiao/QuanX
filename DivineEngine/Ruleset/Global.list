@@ -435,3 +435,9 @@ host-suffix, goo.gl, proxy
 host-suffix, gstatic.com, proxy
 host-suffix, lingokids.com, proxy
 host-keyword, openstreetmap, proxy
+host-suffix, pdst.fm, proxy
+host-suffix, amazonaws.com, proxy
+host-keyword, .jwp, proxy
+host-keyword, .sesame, proxy
+host-keyword, .adjust., proxy
+host-keyword, .ebay, proxy
