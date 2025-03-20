@@ -1,6 +1,7 @@
 host-suffix, in.appcenter.ms, proxy
 host-suffix, mobile.events.data.microsoft.com, proxy
 host-suffix, copilot.microsoft.com, proxy
+host-suffix, rewardsplatform.microsoft.com, proxy
 host-suffix, x.ai, proxy
 host-suffix, intercomcdn.com, proxy
 host-suffix, auth0.com, proxy
