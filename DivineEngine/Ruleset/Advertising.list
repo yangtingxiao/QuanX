@@ -44,8 +44,6 @@ host-suffix, pangolin-sdk-toutiao-b.com, reject
 host, ad.toutiao.com, reject
 host, dsp.toutiao.com, reject
 host, pangolin.snssdk.com, reject
-host, advertise.baicizhan.com, reject
-host, advertise.baicizhan.org, reject
 host, adx.yiche.com, reject
 host, log.ycapp.yiche.com, reject
 host-suffix, iad.appboy.com, reject
