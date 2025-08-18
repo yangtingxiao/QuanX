@@ -263,3 +263,16 @@ ip-cidr, 118.89.204.198/32, reject
 ip6-cidr, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128, reject
 host, apppv.zol.com.cn, reject
 host, pvnapp.zol.com.cn, reject
+DOMAIN-SUFFIX,bds.snssdk.com,REJECT
+DOMAIN-SUFFIX,smr.snssdk.com,REJECT
+DOMAIN-SUFFIX,pangolin.snssdk.com,REJECT
+DOMAIN-SUFFIX,extlog.snssdk.com,REJECT
+DOMAIN-SUFFIX,toblog.ctobsnssdk.com,REJECT
+DOMAIN-SUFFIX,pangolin.ctobsnssdk.com,REJECT
+DOMAIN-SUFFIX,devfu.cc,REJECT
+DOMAIN-SUFFIX,qzs.qq.com,REJECT
+DOMAIN-SUFFIX,ulogs.umeng.com,REJECT
+DOMAIN-SUFFIX,adim.pinduoduo.com,REJECT
+DOMAIN-SUFFIX,ulogs.umengcloud.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+
