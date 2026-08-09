@@ -285,3 +285,5 @@ host-keyword, .tiktokv., proxy
 host-keyword, av.com, proxy
 host-suffix, tktube.com, proxy
 host-keyword, justservingfiles.net, proxy
+host-suffix, jisuts.com, proxy
+host-suffix, 60088.cc, proxy

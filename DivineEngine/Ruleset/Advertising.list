@@ -275,4 +275,36 @@ DOMAIN-SUFFIX,ulogs.umeng.com,REJECT
 DOMAIN-SUFFIX,adim.pinduoduo.com,REJECT
 DOMAIN-SUFFIX,ulogs.umengcloud.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+host-suffix, content-loader.com, reject
+host, analytics.twitter.com, reject
+host-suffix, rewardingfill.com, reject
+host-suffix, error-report.com, reject
+host-keyword, .html-load.com, reject
+host-keyword, advertising., reject
+host, ads.cup.com.cn, reject
+host, a1.alibabausercontent.com, reject
+host, atoken.m.taobao.com, reject
+host, aoscdn.amap.com, reject
+host, shop-ai-agent-static.amap.com, reject
+host, ts.amap.com, reject
+host, acs.m.taobao.com, reject
+host, gaode-acs.amap.com, reject
+host, awaken.amap.com, reject
+host-suffix, newbuy.chinaunicom.cn, reject
+host-suffix, qchannel03.cn, reject
+host-suffix, sealaly.net, reject
+host-suffix, getui.com, reject
+host, ad.cyapi.cn, reject
+host, ad.huijingcai.cn, reject
+host-suffix, beizi.biz, reject
+host, aweme.snssdk.com, reject
+host-keyword, cdn-tos.douyinstatic.com, reject
+host-keyword, lite-daily-a.douyinvod.com, reject
+host, v6-lite-daily-a.douyinvod.com, reject
+host, sf3-cdn-tos.douyinstatic.com, reject
+host, pull-flv-f11.douyincdn.com, reject
+host, v5-se-zjyh-lite-daily-a.douyinvod.com, reject
+host, lf-reward-video.bytedcdn.com, reject
+host, xpis-xcdn.youku.com, reject
+host, ads.amap.com, reject
 

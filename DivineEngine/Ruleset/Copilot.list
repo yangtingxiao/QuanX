@@ -17,3 +17,10 @@ host-suffix, sentry.io, proxy
 host-suffix, cdn.jsdelivr.net, proxy
 host-suffix, chatgpt.com, proxy
 host-suffix, openai.com, proxy
+host-suffix, oaistatsig.com, proxy
+host-suffix, anthropic.com, proxy
+host-keyword, claude, proxy
+host-suffix, 8-lives-cat.io, proxy
+host-keyword, grok, proxy
+host-suffix, grok.com, proxy
+user-agent, ChatGPT*, proxy
