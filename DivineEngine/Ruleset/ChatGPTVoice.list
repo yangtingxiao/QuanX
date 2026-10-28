@@ -275,6 +275,7 @@ ip-cidr, 57.154.55.99/32, no-resolve
 ip-cidr, 57.154.67.255/32, no-resolve
 ip-cidr, 64.236.175.115/32, no-resolve
 ip-cidr, 68.155.152.41/32, no-resolve
+ip-cidr, 68.221.76.47/32, no-resolve
 ip-cidr, 68.221.176.216/32, no-resolve
 ip-cidr, 68.221.200.92/32, no-resolve
 ip-cidr, 70.153.83.155/32, no-resolve
@@ -355,6 +356,7 @@ ip-cidr, 138.91.23.93/32, no-resolve
 ip-cidr, 158.158.35.12/32, no-resolve
 ip-cidr, 158.158.43.147/32, no-resolve
 ip-cidr, 158.158.47.203/32, no-resolve
+ip-cidr, 158.158.54.76/32, no-resolve
 ip-cidr, 158.158.72.151/32, no-resolve
 ip-cidr, 158.158.96.28/32, no-resolve
 ip-cidr, 158.158.98.53/32, no-resolve
